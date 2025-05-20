@@ -1,3 +1,5 @@
+Hi there! My name is Bruno Stewart and im an aspiring and passionate junior Software Developer
+
 # 💫 About Me:
 🔭 I’m a recent Software Developement Graduate<br>👯 I’m looking to collaborate on any big project that will allow me to showcase my skils<br>🤝 I’m looking for help with getting an entry level role in Software Development<br>🌱 I’m currently learning Python using Pytorch<br>💬 Ask me about<br>⚡ Fun fact
 
